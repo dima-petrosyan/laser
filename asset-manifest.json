@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laser/static/css/main.b69031e7.css",
+    "main.js": "/laser/static/js/main.471fb35f.js",
+    "index.html": "/laser/index.html",
+    "main.b69031e7.css.map": "/laser/static/css/main.b69031e7.css.map",
+    "main.471fb35f.js.map": "/laser/static/js/main.471fb35f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69031e7.css",
+    "static/js/main.471fb35f.js"
+  ]
+}
